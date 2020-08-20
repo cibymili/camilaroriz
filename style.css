@@ -1,0 +1,62 @@
+﻿body {
+    font-family: 'Balsamiq Sans', cursive;
+    background-image: url("imagem1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: scroll;
+    margin-top: 50px;
+}
+
+
+
+
+
+nav{
+
+    color: white;
+}
+
+a{
+color: white;
+}
+
+
+li{
+list-style: none;
+list-style-type: none;
+
+}
+
+.webtext {
+    background-color: #6F88E8
+}
+
+
+
+
+html, body {
+    height: 100%;
+    margin: 2;
+    
+}
+
+
+
+.container {
+    font-size: x-large;
+    color: white;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+
+h1 {
+    transition: all 2s;
+
+}
+
+h1:hover {
+    transform: scale(1.1); 
+
+}
